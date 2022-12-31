@@ -1,7 +1,7 @@
 # Profile
 
+<h1 align="center">
 👋 Hi, I'm Tech Boy Linux!
-h1 align="center">
 </h1>
 
 <p align="center">
